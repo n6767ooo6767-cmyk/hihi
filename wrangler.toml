@@ -1,0 +1,9 @@
+
+name = "hihi"
+main = "worker.js"
+compatibility_date = "2026-11-12"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hihi"
+database_id = "d2c393ce-4376-47f4-b2fb-5b07f779346d"
